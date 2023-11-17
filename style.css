@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+}
+h1{
+  color: grey;
+  font-family: Arial
+}
+p{
+  color: darkgrey;
+  font-family: Arial;
+}
+#word{
+  font-family: arial black;
+  font-size: 100px;
+}
